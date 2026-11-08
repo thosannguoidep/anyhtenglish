@@ -1,0 +1,589 @@
+window.Unit2Practice = {
+  "mcqs": [
+    {
+      "id": 1,
+      "q": "1. The _______ provides information about the components and capabilities of the computer.",
+      "options": [
+        "a. peripherals",
+        "b. system specifications",
+        "c. internal hardware",
+        "d. monitor"
+      ],
+      "correct": 1,
+      "paperChoice": 1,
+      "explanation": "System specifications cung cấp thông số chi tiết về linh kiện và khả năng của máy tính."
+    },
+    {
+      "id": 2,
+      "q": "2. The keyboard and mouse are examples of _______.",
+      "options": [
+        "a. internal hardware",
+        "b. peripherals",
+        "c. power supply unit",
+        "d. screen"
+      ],
+      "correct": 1,
+      "paperChoice": 1,
+      "explanation": "Bàn phím và chuột là các thiết bị ngoại vi (peripherals)."
+    },
+    {
+      "id": 3,
+      "q": "3. The CPU is part of the _______ of a computer.",
+      "options": [
+        "a. peripherals",
+        "b. external drive",
+        "c. internal hardware",
+        "d. optical drive"
+      ],
+      "correct": 2,
+      "paperChoice": 2,
+      "explanation": "CPU nằm bên trong thùng máy nên thuộc nhóm phần cứng bên trong (internal hardware)."
+    },
+    {
+      "id": 4,
+      "q": "4. She stored the backup files on an _______.",
+      "options": [
+        "a. monitor",
+        "b. external drive",
+        "c. audio socket",
+        "d. DIMM slot"
+      ],
+      "correct": 1,
+      "paperChoice": 1,
+      "explanation": "Lưu trữ tệp sao lưu trên ổ đĩa gắn ngoài (external drive)."
+    },
+    {
+      "id": 5,
+      "q": "5. The _______ is where most of the computer's data is stored.",
+      "options": [
+        "a. monitor",
+        "b. power supply unit",
+        "c. printer",
+        "d. hard disk drive"
+      ],
+      "correct": 3,
+      "paperChoice": 3,
+      "explanation": "Hard disk drive (ổ cứng) là nơi lưu trữ phần lớn dữ liệu của máy tính."
+    },
+    {
+      "id": 6,
+      "q": "6. DVDs and CDs are used in the _______.",
+      "options": [
+        "a. Ethernet connector",
+        "b. solid state drive",
+        "c. optical drive",
+        "d. audio socket"
+      ],
+      "correct": 2,
+      "paperChoice": 2,
+      "explanation": "Đĩa DVD và CD được đọc bằng ổ đĩa quang (optical drive)."
+    },
+    {
+      "id": 7,
+      "q": "7. He plugged his _______ into the computer to listen to music.",
+      "options": [
+        "a. keyboard",
+        "b. headphones",
+        "c. monitor",
+        "d. power supply unit"
+      ],
+      "correct": 1,
+      "paperChoice": 1,
+      "explanation": "Cắm tai nghe (headphones) vào máy tính để nghe nhạc."
+    },
+    {
+      "id": 8,
+      "q": "8. She typed her report using the _______.",
+      "options": [
+        "a. keyboard",
+        "b. mouse",
+        "c. printer",
+        "d. solid state drive"
+      ],
+      "correct": 0,
+      "paperChoice": 0,
+      "explanation": "Gõ báo cáo bằng bàn phím (keyboard)."
+    },
+    {
+      "id": 9,
+      "q": "9. A _______ is faster and more durable than a traditional hard drive.",
+      "options": [
+        "a. graphics card socket",
+        "b. DIMM slot",
+        "c. solid state drive",
+        "d. SATA socket"
+      ],
+      "correct": 2,
+      "paperChoice": 1,
+      "noteCorrection": "Lưu ý sửa bài trên giấy (Trang 9): Trên giấy bạn khoanh b) DIMM slot (khe cắm RAM), nhưng thiết bị lưu trữ nhanh hơn và bền hơn ổ cứng truyền thống (traditional hard drive) phải là 'c. solid state drive (SSD)'.",
+      "explanation": "Ổ cứng thể rắn (SSD) nhanh hơn và bền hơn ổ cứng cơ truyền thống (HDD)."
+    },
+    {
+      "id": 10,
+      "q": "10. The _______ allows you to point and click on items on the screen.",
+      "options": [
+        "a. memory",
+        "b. mouse",
+        "c. monitor",
+        "d. keyboard"
+      ],
+      "correct": 1,
+      "paperChoice": 1,
+      "explanation": "Chuột máy tính (mouse) giúp trỏ và nhấp vào các mục trên màn hình."
+    },
+    {
+      "id": 11,
+      "q": "11. The computer's _______ determines how many programs it can run simultaneously.",
+      "options": [
+        "a. memory",
+        "b. printer",
+        "c. screen",
+        "d. processor"
+      ],
+      "correct": 0,
+      "paperChoice": 0,
+      "explanation": "Bộ nhớ (RAM/memory) quyết định số lượng chương trình có thể chạy đồng thời mượt mà."
+    },
+    {
+      "id": 12,
+      "q": "12. The _______ displays the output from the computer.",
+      "options": [
+        "a. power supply unit",
+        "b. monitor",
+        "c. optical drive",
+        "d. USB port"
+      ],
+      "correct": 1,
+      "paperChoice": 1,
+      "explanation": "Màn hình (monitor) hiển thị dữ liệu đầu ra từ máy tính."
+    },
+    {
+      "id": 13,
+      "q": "13. The _______ converts electrical power from an outlet into usable power for the computer.",
+      "options": [
+        "a. power supply unit",
+        "b. monitor",
+        "c. screen",
+        "d. memory"
+      ],
+      "correct": 0,
+      "paperChoice": 0,
+      "explanation": "Bộ cấp nguồn (power supply unit - PSU) chuyển đổi điện năng cho máy tính."
+    },
+    {
+      "id": 14,
+      "q": "14. He looked at the _______ to see the output from his computer.",
+      "options": [
+        "a. monitor",
+        "b. screen",
+        "c. audio socket",
+        "d. power supply unit"
+      ],
+      "correct": 0,
+      "paperChoice": 0,
+      "explanation": "Nhìn vào màn hình máy tính (monitor) để xem kết quả đầu ra."
+    },
+    {
+      "id": 15,
+      "q": "15. He plugged his headphones into the _______ on his computer.",
+      "options": [
+        "a. DIMM slot",
+        "b. Ethernet connector",
+        "c. SATA socket",
+        "d. audio socket"
+      ],
+      "correct": 3,
+      "paperChoice": 3,
+      "explanation": "Cắm tai nghe vào cổng âm thanh (audio socket)."
+    },
+    {
+      "id": 16,
+      "q": "16. He added more RAM by inserting it into the _______ on the motherboard.",
+      "options": [
+        "a. DIMM slot",
+        "b. Ethernet connector",
+        "c. USB port",
+        "d. graphics card socket"
+      ],
+      "correct": 0,
+      "paperChoice": 0,
+      "explanation": "Nâng cấp RAM bằng cách cắm vào khe DIMM (DIMM slot) trên bo mạch chủ."
+    },
+    {
+      "id": 17,
+      "q": "17. To connect to the internet, he plugged the cable into the _______.",
+      "options": [
+        "a. SATA socket",
+        "b. audio socket",
+        "c. Ethernet connector",
+        "d. monitor"
+      ],
+      "correct": 2,
+      "paperChoice": 2,
+      "explanation": "Cắm cáp mạng vào đầu nối Ethernet (Ethernet connector) để kết nối Internet."
+    },
+    {
+      "id": 18,
+      "q": "18. The _______ is where the graphics card is installed.",
+      "options": [
+        "a. SATA socket",
+        "b. USB port",
+        "c. Ethernet connector",
+        "d. graphics card socket"
+      ],
+      "correct": 3,
+      "paperChoice": 3,
+      "explanation": "Card đồ họa được lắp vào khe cắm card đồ họa (graphics card socket)."
+    },
+    {
+      "id": 19,
+      "q": "19. He connected his external hard drive using the _______.",
+      "options": [
+        "a. SATA socket",
+        "b. USB port",
+        "c. Ethernet connector",
+        "d. audio socket"
+      ],
+      "correct": 1,
+      "paperChoice": 1,
+      "explanation": "Ổ cứng di động ngoài kết nối qua cổng USB (USB port)."
+    },
+    {
+      "id": 20,
+      "q": "20. The computer had a _______ core processor for better performance.",
+      "options": [
+        "a. dual",
+        "b. mega",
+        "c. giga",
+        "d. nano"
+      ],
+      "correct": 0,
+      "paperChoice": 0,
+      "explanation": "Dual-core processor = Bộ vi xử lý lõi kép (2 nhân)."
+    },
+    {
+      "id": 21,
+      "q": "21. He upgraded his computer to have _______ the processing power.",
+      "options": [
+        "a. quad",
+        "b. nano",
+        "c. dual",
+        "d. micro"
+      ],
+      "correct": 0,
+      "paperChoice": 0,
+      "explanation": "Quad = gấp 4 lần / 4 nhân xử lý."
+    },
+    {
+      "id": 22,
+      "q": "22. The _______ technology allowed for very small components in the device.",
+      "options": [
+        "a. giga",
+        "b. tera",
+        "c. micro",
+        "d. nano"
+      ],
+      "correct": 3,
+      "paperChoice": 3,
+      "explanation": "Nanotechnology (công nghệ nano) cho phép chế tạo linh kiện siêu nhỏ."
+    },
+    {
+      "id": 23,
+      "q": "23. He checked the _______ to ensure the display was clear and sharp.",
+      "options": [
+        "a. administration staff",
+        "b. processor",
+        "c. screen resolution",
+        "d. server"
+      ],
+      "correct": 2,
+      "paperChoice": 2,
+      "explanation": "Kiểm tra độ phân giải màn hình (screen resolution) để đảm bảo hiển thị sắc nét."
+    },
+    {
+      "id": 24,
+      "q": "24. If we _______ 10 by 4.6, we get 46.",
+      "options": [
+        "a. multiply",
+        "b. divide",
+        "c. subtract",
+        "d. plus"
+      ],
+      "correct": 0,
+      "paperChoice": 0,
+      "explanation": "10 × 4.6 = 46 -> multiply (nhân)."
+    },
+    {
+      "id": 25,
+      "q": "25. If we _______ 30.8 by 2, we get 15.4.",
+      "options": [
+        "a. multiply",
+        "b. divide",
+        "c. subtract",
+        "d. plus"
+      ],
+      "correct": 1,
+      "paperChoice": 1,
+      "explanation": "30.8 ÷ 2 = 15.4 -> divide (chia)."
+    },
+    {
+      "id": 26,
+      "q": "26. If we _______ 2.5 from 30, we get 27.5.",
+      "options": [
+        "a. multiply",
+        "b. divide",
+        "c. subtract",
+        "d. plus"
+      ],
+      "correct": 2,
+      "paperChoice": 2,
+      "explanation": "30 - 2.5 = 27.5 -> subtract ... from (trừ)."
+    },
+    {
+      "id": 27,
+      "q": "27. The _______ of 30.7 and 2.5 is 33.2.",
+      "options": [
+        "a. multiply",
+        "b. divide",
+        "c. subtract",
+        "d. sum"
+      ],
+      "correct": 3,
+      "paperChoice": 3,
+      "explanation": "30.7 + 2.5 = 33.2 -> the sum of (tổng của)."
+    },
+    {
+      "id": 28,
+      "q": "28. Which prefix is correct for the number 0.000000001?",
+      "options": [
+        "a. tera-",
+        "b. giga-",
+        "c. nano-",
+        "d. micro-"
+      ],
+      "correct": 2,
+      "paperChoice": 2,
+      "explanation": "10^-9 (0.000000001) tương ứng với tiền tố nano-."
+    },
+    {
+      "id": 29,
+      "q": "29. _______ are not used for permanent storage?",
+      "options": [
+        "a. RAMs",
+        "b. ROMs",
+        "c. Disk drives",
+        "d. Hard disks"
+      ],
+      "correct": 0,
+      "paperChoice": 0,
+      "explanation": "RAM là bộ nhớ khả biến (tạm thời), không dùng để lưu trữ vĩnh viễn."
+    },
+    {
+      "id": 30,
+      "q": "30. What are the results produced by a computer?",
+      "options": [
+        "a. input",
+        "b. devices",
+        "c. monitor",
+        "d. information"
+      ],
+      "correct": 3,
+      "paperChoice": 3,
+      "explanation": "Kết quả xử lý dữ liệu của máy tính tạo ra thông tin (information)."
+    },
+    {
+      "id": 31,
+      "q": "31. Physical parts that make up a computer system is called _______.",
+      "options": [
+        "a. hardware",
+        "b. software",
+        "c. data",
+        "d. peripheral"
+      ],
+      "correct": 0,
+      "paperChoice": 0,
+      "explanation": "Các bộ phận vật lý cấu thành hệ thống máy tính được gọi là phần cứng (hardware)."
+    },
+    {
+      "id": 32,
+      "q": "32. What is the function of the control unit?",
+      "options": [
+        "a. examines instructions and activate other PC's components.",
+        "b. store and control information.",
+        "c. performs mathematic calculations.",
+        "d. converts programming language into machine code."
+      ],
+      "correct": 0,
+      "paperChoice": 0,
+      "explanation": "Control Unit (Khối điều khiển trong CPU) giải mã lệnh và kích hoạt các thành phần khác của PC."
+    },
+    {
+      "id": 33,
+      "q": "33. Which one is not an internal component?",
+      "options": [
+        "a. power supply unit",
+        "b. optical drive",
+        "c. memory",
+        "d. modem"
+      ],
+      "correct": 3,
+      "paperChoice": 3,
+      "explanation": "Modem thường là thiết bị mạng bên ngoài, không phải linh kiện nội vi bắt buộc bên trong thùng máy."
+    },
+    {
+      "id": 34,
+      "q": "34. What is the function of 'space bar' key?",
+      "options": [
+        "a. It removes the character on the left.",
+        "b. It produces a blank space.",
+        "c. It moves the cursor to the beginning of a new line.",
+        "d. It works with combination with other keys to produce special actions."
+      ],
+      "correct": 1,
+      "paperChoice": 1,
+      "explanation": "Phím Space bar tạo một khoảng trắng (blank space)."
+    },
+    {
+      "id": 35,
+      "q": "35. A monitor is _______ device which displays data.",
+      "options": [
+        "a. an input",
+        "b. a storage",
+        "c. an output",
+        "d. screen"
+      ],
+      "correct": 2,
+      "paperChoice": 2,
+      "explanation": "Màn hình (monitor) là một thiết bị đầu ra (an output device)."
+    }
+  ],
+  "cloze": {
+    "title": "IT Systems",
+    "wordBank": [
+      "businesses",
+      "store",
+      "combination",
+      "crashes",
+      "browse",
+      "user-friendly",
+      "servers",
+      "tasks",
+      "communicating",
+      "connections"
+    ],
+    "blanks": [
+      {
+        "index": 1,
+        "answer": "combination",
+        "context": "An IT system is a (1) _______ of hardware, software, and networks that work together..."
+      },
+      {
+        "index": 2,
+        "answer": "servers",
+        "context": "Hardware includes physical devices like computers, (2) _______, and routers."
+      },
+      {
+        "index": 3,
+        "answer": "connections",
+        "context": "Networks are (3) _______ between devices that allow them to communicate with each other."
+      },
+      {
+        "index": 4,
+        "answer": "businesses",
+        "context": "IT systems help (4) _______ and individuals perform tasks more efficiently."
+      },
+      {
+        "index": 5,
+        "answer": "tasks",
+        "context": "...help businesses and individuals perform (5) _______ more efficiently."
+      },
+      {
+        "index": 6,
+        "answer": "store",
+        "context": "They can (6) _______ large amounts of data, perform complex calculations..."
+      },
+      {
+        "index": 7,
+        "answer": "crashes",
+        "context": "Reliability means the system works well without frequent (7) _______ or errors."
+      },
+      {
+        "index": 8,
+        "answer": "user-friendly",
+        "context": "Ease of use means the system is (8) _______ and people can learn how to use it quickly."
+      },
+      {
+        "index": 9,
+        "answer": "browse",
+        "context": "We use them to (9) _______ the internet, send emails, play games..."
+      },
+      {
+        "index": 10,
+        "answer": "communicating",
+        "context": "...managing inventory, processing transactions, and (10) _______ with customers."
+      }
+    ]
+  },
+  "matching": [
+    {
+      "id": 1,
+      "term": "1. system specifications",
+      "correctLetter": "J",
+      "definition": "J. The details about a computer's hardware and software configuration."
+    },
+    {
+      "id": 2,
+      "term": "2. peripherals",
+      "correctLetter": "G",
+      "definition": "G. Additional devices connected to a computer, such as a mouse, keyboard, or printer"
+    },
+    {
+      "id": 3,
+      "term": "3. power supply unit",
+      "correctLetter": "F",
+      "definition": "F. A device that provides power to a computer."
+    },
+    {
+      "id": 4,
+      "term": "4. screen resolution",
+      "correctLetter": "I",
+      "definition": "I. the measurement of how many pixels your screen can display"
+    },
+    {
+      "id": 5,
+      "term": "5. server",
+      "correctLetter": "A",
+      "definition": "A. controls or supplies information to several computers connected in a network"
+    },
+    {
+      "id": 6,
+      "term": "6. virtual reality goggles",
+      "correctLetter": "C",
+      "definition": "C. eyewear which functions as a display device, enables the wearer to view and interact with a series of computer-generated images"
+    },
+    {
+      "id": 7,
+      "term": "7. a boot drive",
+      "correctLetter": "H",
+      "definition": "H. A storage device from which a computer starts its operating system"
+    },
+    {
+      "id": 8,
+      "term": "8. back up",
+      "correctLetter": "B",
+      "definition": "B. The process of copying and saving data to prevent loss"
+    },
+    {
+      "id": 9,
+      "term": "9. open source software",
+      "correctLetter": "D",
+      "definition": "D. A software that is free for anyone to use, modify, and distribute."
+    },
+    {
+      "id": 10,
+      "term": "10. the vendor",
+      "correctLetter": "E",
+      "definition": "E. a company that sells a particular product"
+    }
+  ]
+};

@@ -1,0 +1,45 @@
+window.Day05Vocab = [
+  // Phần 1: Động từ thông dụng - Nhóm 1 (12 từ)
+  { id: 5001, word: "play", ipa: "/pleɪ/", meaning: "Chơi (thể thao, nhạc cụ)", group: "1. Động từ thông dụng P1 (12 từ)" },
+  { id: 5002, word: "watch", ipa: "/wɒtʃ/", meaning: "Xem (TV, phim)", group: "1. Động từ thông dụng P1 (12 từ)" },
+  { id: 5003, word: "read", ipa: "/riːd/", meaning: "Đọc", group: "1. Động từ thông dụng P1 (12 từ)" },
+  { id: 5004, word: "write", ipa: "/raɪt/", meaning: "Viết", group: "1. Động từ thông dụng P1 (12 từ)" },
+  { id: 5005, word: "listen", ipa: "/ˈlɪsn/", meaning: "Nghe (listen to)", group: "1. Động từ thông dụng P1 (12 từ)" },
+  { id: 5006, word: "speak", ipa: "/spiːk/", meaning: "Nói (ngôn ngữ)", group: "1. Động từ thông dụng P1 (12 từ)" },
+  { id: 5007, word: "ride", ipa: "/raɪd/", meaning: "Đạp (xe), cưỡi", group: "1. Động từ thông dụng P1 (12 từ)" },
+  { id: 5008, word: "live", ipa: "/lɪv/", meaning: "Sống, sinh sống", group: "1. Động từ thông dụng P1 (12 từ)" },
+  { id: 5009, word: "like", ipa: "/laɪk/", meaning: "Thích", group: "1. Động từ thông dụng P1 (12 từ)" },
+  { id: 5010, word: "enjoy", ipa: "/ɪnˈdʒɔɪ/", meaning: "Yêu thích, tận hưởng", group: "1. Động từ thông dụng P1 (12 từ)" },
+  { id: 5011, word: "sing", ipa: "/sɪŋ/", meaning: "Hát", group: "1. Động từ thông dụng P1 (12 từ)" },
+  { id: 5012, word: "dance", ipa: "/dɑːns/", meaning: "Nhảy múa, khiêu vũ", group: "1. Động từ thông dụng P1 (12 từ)" },
+
+  // Phần 2: Động từ thông dụng - Nhóm 2 (12 từ)
+  { id: 5013, word: "walk", ipa: "/wɔːk/", meaning: "Đi bộ", group: "2. Động từ thông dụng P2 (12 từ)" },
+  { id: 5014, word: "learn", ipa: "/lɜːn/", meaning: "Học (kỹ năng, kiến thức)", group: "2. Động từ thông dụng P2 (12 từ)" },
+  { id: 5015, word: "visit", ipa: "/ˈvɪzɪt/", meaning: "Ghé thăm, thăm viếng", group: "2. Động từ thông dụng P2 (12 từ)" },
+  { id: 5016, word: "wash", ipa: "/wɒʃ/", meaning: "Rửa, giặt", group: "2. Động từ thông dụng P2 (12 từ)" },
+  { id: 5017, word: "study", ipa: "/ˈstʌdi/", meaning: "Học tập, nghiên cứu", group: "2. Động từ thông dụng P2 (12 từ)" },
+  { id: 5018, word: "have", ipa: "/hæv/", meaning: "Có (ngôi số ít đổi thành has)", group: "2. Động từ thông dụng P2 (12 từ)" },
+  { id: 5019, word: "do", ipa: "/duː/", meaning: "Làm, thực hiện", group: "2. Động từ thông dụng P2 (12 từ)" },
+  { id: 5020, word: "eat", ipa: "/iːt/", meaning: "Ăn", group: "2. Động từ thông dụng P2 (12 từ)" },
+  { id: 5021, word: "go", ipa: "/ɡəʊ/", meaning: "Đi", group: "2. Động từ thông dụng P2 (12 từ)" },
+  { id: 5022, word: "travel", ipa: "/ˈtrævl/", meaning: "Đi lại, du lịch", group: "2. Động từ thông dụng P2 (12 từ)" },
+  { id: 5023, word: "help", ipa: "/help/", meaning: "Giúp đỡ", group: "2. Động từ thông dụng P2 (12 từ)" },
+  { id: 5024, word: "drink", ipa: "/drɪŋk/", meaning: "Uống", group: "2. Động từ thông dụng P2 (12 từ)" },
+
+  // Phần 3: Một số danh từ thông dụng (14 từ)
+  { id: 5025, word: "chess", ipa: "/tʃes/", meaning: "Cờ vua", group: "3. Danh từ thông dụng (14 từ)" },
+  { id: 5026, word: "candy", ipa: "/ˈkændi/", meaning: "Kẹo", group: "3. Danh từ thông dụng (14 từ)" },
+  { id: 5027, word: "football", ipa: "/ˈfʊtbɔːl/", meaning: "Bóng đá", group: "3. Danh từ thông dụng (14 từ)" },
+  { id: 5028, word: "volleyball", ipa: "/ˈvɒlibɔːl/", meaning: "Bóng chuyền", group: "3. Danh từ thông dụng (14 từ)" },
+  { id: 5029, word: "badminton", ipa: "/ˈbædmɪntən/", meaning: "Cầu lông", group: "3. Danh từ thông dụng (14 từ)" },
+  { id: 5030, word: "tennis", ipa: "/ˈtenɪs/", meaning: "Quần vợt", group: "3. Danh từ thông dụng (14 từ)" },
+  { id: 5031, word: "guitar", ipa: "/ɡɪˈtɑː(r)/", meaning: "Đàn ghi-ta", group: "3. Danh từ thông dụng (14 từ)" },
+  { id: 5032, word: "dishes", ipa: "/ˈdɪʃɪz/", meaning: "Bát đĩa", group: "3. Danh từ thông dụng (14 từ)" },
+  { id: 5033, word: "homework", ipa: "/ˈhəʊmwɜːk/", meaning: "Bài tập về nhà", group: "3. Danh từ thông dụng (14 từ)" },
+  { id: 5034, word: "housework", ipa: "/ˈhaʊswɜːk/", meaning: "Công việc nhà", group: "3. Danh từ thông dụng (14 từ)" },
+  { id: 5035, word: "bike", ipa: "/baɪk/", meaning: "Xe đạp", group: "3. Danh từ thông dụng (14 từ)" },
+  { id: 5036, word: "bus", ipa: "/bʌs/", meaning: "Xe buýt", group: "3. Danh từ thông dụng (14 từ)" },
+  { id: 5037, word: "coffee", ipa: "/ˈkɒfi/", meaning: "Cà phê", group: "3. Danh từ thông dụng (14 từ)" },
+  { id: 5038, word: "university", ipa: "/ˌjuːnɪˈvɜːsəti/", meaning: "Trường đại học", group: "3. Danh từ thông dụng (14 từ)" }
+];

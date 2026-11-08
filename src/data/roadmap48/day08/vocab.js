@@ -1,0 +1,55 @@
+window.Day08Vocab = [
+  // Phần 1: Một số động từ thông dụng (14 từ)
+  { id: 8001, word: "rise", ipa: "/raɪz/", meaning: "Mọc (mặt trời)", group: "1. Động từ thông dụng (14 từ)" },
+  { id: 8002, word: "set", ipa: "/set/", meaning: "Lặn (mặt trời)", group: "1. Động từ thông dụng (14 từ)" },
+  { id: 8003, word: "leave", ipa: "/liːv/", meaning: "Rời đi, khởi hành", group: "1. Động từ thông dụng (14 từ)" },
+  { id: 8004, word: "start", ipa: "/stɑːt/", meaning: "Bắt đầu", group: "1. Động từ thông dụng (14 từ)" },
+  { id: 8005, word: "boil", ipa: "/bɔɪl/", meaning: "Sôi, đun sôi", group: "1. Động từ thông dụng (14 từ)" },
+  { id: 8006, word: "see", ipa: "/siː/", meaning: "Ghé thăm, gặp, nhìn thấy", group: "1. Động từ thông dụng (14 từ)" },
+  { id: 8007, word: "hate", ipa: "/heɪt/", meaning: "Ghét", group: "1. Động từ thông dụng (14 từ)" },
+  { id: 8008, word: "have", ipa: "/hæv/", meaning: "Ăn (bữa sáng / trưa / tối)", group: "1. Động từ thông dụng (14 từ)" },
+  { id: 8009, word: "tidy", ipa: "/ˈtaɪdi/", meaning: "Dọn dẹp (phòng)", group: "1. Động từ thông dụng (14 từ)" },
+  { id: 8010, word: "meet", ipa: "/miːt/", meaning: "Gặp gỡ", group: "1. Động từ thông dụng (14 từ)" },
+  { id: 8011, word: "cycle", ipa: "/ˈsaɪkl/", meaning: "Đạp xe", group: "1. Động từ thông dụng (14 từ)" },
+  { id: 8012, word: "run", ipa: "/rʌn/", meaning: "Chạy", group: "1. Động từ thông dụng (14 từ)" },
+  { id: 8013, word: "turn", ipa: "/tɜːn/", meaning: "Biến thành, chuyển sang", group: "1. Động từ thông dụng (14 từ)" },
+  { id: 8014, word: "cry", ipa: "/kraɪ/", meaning: "Khóc", group: "1. Động từ thông dụng (14 từ)" },
+
+  // Phần 2: Một số danh từ thông dụng (18 từ)
+  { id: 8015, word: "Sun", ipa: "/sʌn/", meaning: "Mặt trời", group: "2. Danh từ thông dụng (18 từ)" },
+  { id: 8016, word: "world", ipa: "/wɜːld/", meaning: "Thế giới", group: "2. Danh từ thông dụng (18 từ)" },
+  { id: 8017, word: "East", ipa: "/iːst/", meaning: "Phía Đông", group: "2. Danh từ thông dụng (18 từ)" },
+  { id: 8018, word: "West", ipa: "/west/", meaning: "Phía Tây", group: "2. Danh từ thông dụng (18 từ)" },
+  { id: 8019, word: "spring", ipa: "/sprɪŋ/", meaning: "Mùa xuân", group: "2. Danh từ thông dụng (18 từ)" },
+  { id: 8020, word: "autumn", ipa: "/ˈɔːtəm/", meaning: "Mùa thu (Anh-Anh) / fall (Anh-Mỹ)", group: "2. Danh từ thông dụng (18 từ)" },
+  { id: 8021, word: "people", ipa: "/ˈpiːpl/", meaning: "Mọi người, người ta (luôn là số nhiều)", group: "2. Danh từ thông dụng (18 từ)" },
+  { id: 8022, word: "park", ipa: "/pɑːk/", meaning: "Công viên", group: "2. Danh từ thông dụng (18 từ)" },
+  { id: 8023, word: "student", ipa: "/ˈstjuːdnt/", meaning: "Học sinh, sinh viên", group: "2. Danh từ thông dụng (18 từ)" },
+  { id: 8024, word: "water", ipa: "/ˈwɔːtə(r)/", meaning: "Nước", group: "2. Danh từ thông dụng (18 từ)" },
+  { id: 8025, word: "brother-in-law", ipa: "/ˈbrʌðər ɪn lɔː/", meaning: "Anh / em rể", group: "2. Danh từ thông dụng (18 từ)" },
+  { id: 8026, word: "sister-in-law", ipa: "/ˈsɪstər ɪn lɔː/", meaning: "Chị / em dâu", group: "2. Danh từ thông dụng (18 từ)" },
+  { id: 8027, word: "breakfast", ipa: "/ˈbrekfəst/", meaning: "Bữa sáng", group: "2. Danh từ thông dụng (18 từ)" },
+  { id: 8028, word: "dinner", ipa: "/ˈdɪnə(r)/", meaning: "Bữa tối", group: "2. Danh từ thông dụng (18 từ)" },
+  { id: 8029, word: "bedroom", ipa: "/ˈbedruːm/", meaning: "Phòng ngủ", group: "2. Danh từ thông dụng (18 từ)" },
+  { id: 8030, word: "cartoon", ipa: "/kɑːˈtuːn/", meaning: "Phim hoạt hình", group: "2. Danh từ thông dụng (18 từ)" },
+  { id: 8031, word: "novel", ipa: "/ˈnɒvl/", meaning: "Tiểu thuyết", group: "2. Danh từ thông dụng (18 từ)" },
+  { id: 8032, word: "tree", ipa: "/triː/", meaning: "Cây cối", group: "2. Danh từ thông dụng (18 từ)" },
+
+  // Phần 3: Một số tính từ thông dụng (8 từ)
+  { id: 8033, word: "hot", ipa: "/hɒt/", meaning: "Nóng", group: "3. Tính từ thông dụng (8 từ)" },
+  { id: 8034, word: "active", ipa: "/ˈæktɪv/", meaning: "Năng động", group: "3. Tính từ thông dụng (8 từ)" },
+  { id: 8035, word: "cute", ipa: "/kjuːt/", meaning: "Đáng yêu", group: "3. Tính từ thông dụng (8 từ)" },
+  { id: 8036, word: "clean", ipa: "/kliːn/", meaning: "Sạch sẽ", group: "3. Tính từ thông dụng (8 từ)" },
+  { id: 8037, word: "tidy", ipa: "/ˈtaɪdi/", meaning: "Gọn gàng", group: "3. Tính từ thông dụng (8 từ)" },
+  { id: 8038, word: "neat", ipa: "/niːt/", meaning: "Ngăn nắp", group: "3. Tính từ thông dụng (8 từ)" },
+  { id: 8039, word: "yellow", ipa: "/ˈjeləʊ/", meaning: "Màu vàng", group: "3. Tính từ thông dụng (8 từ)" },
+  { id: 8040, word: "careful", ipa: "/ˈkeəfl/", meaning: "Cẩn thận", group: "3. Tính từ thông dụng (8 từ)" },
+
+  // Phần 4: Một số trạng từ chỉ tần suất (6 từ)
+  { id: 8041, word: "always", ipa: "/ˈɔːlweɪz/", meaning: "Luôn luôn", group: "4. Trạng từ tần suất (6 từ)" },
+  { id: 8042, word: "usually", ipa: "/ˈjuːʒuəli/", meaning: "Thường thường", group: "4. Trạng từ tần suất (6 từ)" },
+  { id: 8043, word: "often", ipa: "/ˈɒfn/", meaning: "Thường", group: "4. Trạng từ tần suất (6 từ)" },
+  { id: 8044, word: "sometimes", ipa: "/ˈsʌmtaɪmz/", meaning: "Thỉnh thoảng", group: "4. Trạng từ tần suất (6 từ)" },
+  { id: 8045, word: "hardly", ipa: "/ˈhɑːdli/", meaning: "Hiếm khi", group: "4. Trạng từ tần suất (6 từ)" },
+  { id: 8046, word: "never", ipa: "/ˈnevə(r)/", meaning: "Không bao giờ", group: "4. Trạng từ tần suất (6 từ)" }
+];
